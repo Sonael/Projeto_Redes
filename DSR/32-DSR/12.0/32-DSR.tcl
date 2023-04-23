@@ -79,7 +79,6 @@ $nsim at $val(stop) "$n($i) reset";
 
 $nsim at $val(stop) "$nsim nam-end-wireless $val(stop)"
 $nsim at $val(stop) "finish"
-$nsim at 30.01 "puts \"end simulation\" ; $nsim halt"
-
+$nsim at $val(stop) "puts \"end simulation\" ; $nsim halt"
 
 $nsim run
