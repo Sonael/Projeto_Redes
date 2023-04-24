@@ -1,0 +1,60 @@
+/root/ns/projeto-redes/AODV/50-AODV/12.0/output/AODV.tr
+cbr s:259775 r:8797, r/s Ratio:0.0339, f:4932 
+
+/root/ns/projeto-redes/AODV/50-AODV/2.0/output/AODV.tr
+cbr s:259775 r:8084, r/s Ratio:0.0311, f:5696 
+
+/root/ns/projeto-redes/AODV/50-AODV/7.0/output/AODV.tr
+cbr s:259775 r:6860, r/s Ratio:0.0264, f:6456 
+
+/root/ns/projeto-redes/AODV/32-AODV/12.0/output/AODV.tr
+cbr s:43776 r:2070, r/s Ratio:0.0473, f:1688 
+
+/root/ns/projeto-redes/AODV/32-AODV/2.0/output/AODV.tr
+cbr s:166256 r:9556, r/s Ratio:0.0575, f:5300 
+
+/root/ns/projeto-redes/AODV/32-AODV/7.0/output/AODV.tr
+cbr s:43776 r:1821, r/s Ratio:0.0416, f:2061 
+
+/root/ns/projeto-redes/AODV/14-AODV/12.0/output/AODV.tr
+cbr s:19152 r:3635, r/s Ratio:0.1898, f:434 
+
+/root/ns/projeto-redes/AODV/14-AODV/12.0/output/DSR.tr
+cbr s:6041 r:1177, r/s Ratio:0.1948, f:176 
+
+/root/ns/projeto-redes/AODV/14-AODV/2.0/output/AODV.tr
+cbr s:72737 r:11407, r/s Ratio:0.1568, f:4294 
+
+/root/ns/projeto-redes/AODV/14-AODV/7.0/output/AODV.tr
+cbr s:19152 r:1991, r/s Ratio:0.1040, f:2076 
+
+/root/ns/projeto-redes/graph/AODV.tr
+cbr s:72737 r:8056, r/s Ratio:0.1108, f:7645 
+
+/root/ns/projeto-redes/DSR/14-DSR/12.0/output/DSR.tr
+cbr s:6041 r:1177, r/s Ratio:0.1948, f:176 
+
+/root/ns/projeto-redes/DSR/14-DSR/2.0/output/DSR.tr
+cbr s:77 r:4, r/s Ratio:0.0519, f:46 
+
+/root/ns/projeto-redes/DSR/14-DSR/7.0/output/DSR.tr
+cbr s:357 r:33, r/s Ratio:0.0924, f:100 
+
+/root/ns/projeto-redes/DSR/32-DSR/12.0/output/DSR.tr
+cbr s:352 r:4, r/s Ratio:0.0114, f:217 
+
+/root/ns/projeto-redes/DSR/32-DSR/2.0/output/DSR.tr
+cbr s:352 r:4, r/s Ratio:0.0114, f:217 
+
+/root/ns/projeto-redes/DSR/32-DSR/7.0/output/DSR.tr
+cbr s:240 r:3, r/s Ratio:0.0125, f:158 
+
+/root/ns/projeto-redes/DSR/50-DSR/12.0/output/DSR.tr
+cbr s:1400 r:4, r/s Ratio:0.0029, f:587 
+
+/root/ns/projeto-redes/DSR/50-DSR/2.0/output/DSR.tr
+cbr s:1400 r:4, r/s Ratio:0.0029, f:587 
+
+/root/ns/projeto-redes/DSR/50-DSR/7.0/output/DSR.tr
+cbr s:950 r:1, r/s Ratio:0.0011, f:724 
+

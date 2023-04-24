@@ -7,8 +7,8 @@ set val(ifq) Queue/DropTail/PriQueue ;# interface queue type
 set val(ll) LL ;# link layer type
 set val(ant) Antenna/OmniAntenna ;# antenna model
 set val(ifqlen) 50 ;# max packet in ifq
-set val(cp) "/root/ns/projeto-redes/DSR/14-DSR/2.0/mv-14.tcl"
-set val(sc) "/root/ns/projeto-redes/DSR/14-DSR/2.0/tf-14.tcl"
+set val(cp) "/root/ns/projeto-redes/AODV/14-AODV/2.0/mv-14.tcl"
+set val(sc) "/root/ns/projeto-redes/AODV/14-AODV/2.0/tf-14.tcl"
 set val(nn) 14 ;# number of mobilenodes
 set val(rp) DSR ;# routing protocol
 set val(x) 500 ;# X dimension of topography
